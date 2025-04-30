@@ -6,3 +6,9 @@ HTML
 CSS
 JavaSript
 GitHub
+
+![Starting](https://github.com/rakeshnalamari/Doodle_Game/blob/main/Screenshot%202025-04-30%20075715.png?raw=true
+)
+![Gameplay](https://github.com/rakeshnalamari/Doodle_Game/blob/main/Screenshot%202025-04-30%20075645.png?raw=true
+)
+![GameOver](https://github.com/rakeshnalamari/Doodle_Game/blob/main/Screenshot%202025-04-30%20075659.png?raw=true)
