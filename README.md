@@ -12,3 +12,5 @@ GitHub
 ![Gameplay](https://github.com/rakeshnalamari/Doodle_Game/blob/main/Screenshot%202025-04-30%20075645.png?raw=true
 )
 ![GameOver](https://github.com/rakeshnalamari/Doodle_Game/blob/main/Screenshot%202025-04-30%20075659.png?raw=true)
+
+![Watch gameplay video](https://youtu.be/Kj-209b6sPA)
